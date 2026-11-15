@@ -1,0 +1,19 @@
+{
+  "name": "wb-control",
+  "version": "0.1.0",
+  "description": "Analyse saved WB sales, stocks and costs for your authorised cabinet. Managers apply the recommendations.",
+  "author": {
+    "name": "WB Control"
+  },
+  "homepage": "https://wb-control.ru",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "WB Control",
+    "shortDescription": "Sales, stock and cost analysis for your WB cabinet",
+    "category": "Productivity",
+    "capabilities": [
+      "Read"
+    ],
+    "websiteURL": "https://wb-control.ru"
+  }
+}

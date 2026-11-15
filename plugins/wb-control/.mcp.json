@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "wb_control": {
+      "type": "http",
+      "url": "https://wb-control.ru/mcp",
+      "oauth": {
+        "clientId": "codex-pilot",
+        "callbackUrl": "http://127.0.0.1:18117/callback",
+        "callbackPort": 18117
+      }
+    }
+  }
+}
